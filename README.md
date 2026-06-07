@@ -6,6 +6,7 @@
 - 📈 **Technical SEO Specialist** with focus on website performance, indexing, and growth strategies.
 - 🎨 Basic knowledge of frontend technologies (**HTML, CSS, JavaScript**) for better collaboration with UI.
 - 📚 Constantly improving my skills in databases, APIs, and scalable system design.
+- 🤖 Building projects with the help of **AI-assisted development** (GitHub Copilot & Claude).
 
 ---
 
@@ -17,6 +18,7 @@
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 
 #### 🌐 Frontend & SEO
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
