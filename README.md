@@ -1,11 +1,13 @@
 # Hi there, I'm Eliya! 👋
 
 ### 🚀 About Me
-- ⚡ I'm an aspiring **Backend Developer**.
-- 🛠️ Specialized in building robust web applications with **Django** and **Python**.
-- 📈 Expert in **Technical SEO** to ensure high-performance web presence.
-- 🎨 Familiar with Frontend basics (**HTML & CSS** **& js**) to bridge the gap between server and UI.
-- 📚 Always learning new ways to optimize databases and system performance.
+- ⚡ I'm an **aspiring Backend Developer** currently learning **Django & Python**.
+- 🛠️ Building my skills in developing robust backend systems and web applications.
+- 📈 **Technical SEO Specialist** with focus on website performance, indexing, and growth strategies.
+- 🎨 Basic knowledge of frontend technologies (**HTML, CSS, JavaScript**) for better collaboration with UI.
+- 📚 Constantly improving my skills in databases, APIs, and scalable system design.
+
+---
 
 ### 🛠 Tech Stack
 
@@ -19,10 +21,18 @@
 #### 🌐 Frontend & SEO
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-Expert-brightgreen?style=for-the-badge&logo=google-search-console&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-
+![SEO](https://img.shields.io/badge/SEO-Expert-brightgreen?style=for-the-badge&logo=google-search-console&logoColor=white)
 
 ---
-*“Quality is not an act, it is a habit.”*
+
+### 📚 Current Focus
+- Django backend development
+- REST APIs basics
+- Database design (PostgreSQL)
+- Improving frontend fundamentals
+- Advanced Technical SEO strategies
+
+---
+
+*“Consistency beats talent when talent doesn’t work consistently.”*
