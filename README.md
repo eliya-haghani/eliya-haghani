@@ -1,12 +1,12 @@
 # Hi there, I'm Eliya! 👋
 
 ### 🚀 About Me
-- ⚡ I'm an **aspiring Backend Developer** currently learning **Django & Python**.
-- 🛠️ Building my skills in developing robust backend systems and web applications.
-- 📈 **Technical SEO Specialist** with focus on website performance, indexing, and growth strategies.
-- 🎨 Basic knowledge of frontend technologies (**HTML, CSS, JavaScript**) for better collaboration with UI.
-- 📚 Constantly improving my skills in databases, APIs, and scalable system design.
-- 🤖 Building projects with the help of **AI-assisted development** (GitHub Copilot & Claude).
+- ⚡ Backend-focused developer working with **Python** and **Django**.
+- 🛠️ Building web applications, backen systems, and REST APIs with clean and maintainable code.
+- 📈 Technical SEO Specialist focused on website performance, indexing, crawlability, and growth strategies.
+- 🌐 Familiar with frontend technologies including **React, Tawind CSS, HTML, CSS, and JavaScript**.
+- 🗄️ Improving my skills in databases, API design, deployment, and scalable application architecture.
+- 🤖 Buildi real-world projects using AI-assisted development tools like **GitHub Copilot, Claude, and ChatGPT**.
 
 ---
 
